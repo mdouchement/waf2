@@ -1,0 +1,4 @@
+package: github.com/mdouchement/waf
+import:
+- package: github.com/andlabs/ui
+  version: 2dde2a79e7020f065d94d9bc17e0191bf18a5bff
